@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+body{
+    overflow-x: hidden;
+    font-family: 'Lato', sans-serif;
+    background-color:#E27218;
+}
+nav{
+    font-weight: 700 ;
+    font-size: 20px;
+}
+.hero {
+  background-size: cover;
+  min-height: 100vh;
+  position: relative;
+}
+@media(max-width:768px){
+      .hero{
+        min-height: 30vh;
+      }
+}
+ .hero-text{
+    padding-top: 20%;
+    
+ }
+ .hr{
+    width: 500px;
+    height: 3px;
+    background-color: white;
+ }
+ .h3{
+    padding-left: 95px;
+ }
+ .section1{
+    height: 800px;
+ }
+ .hr2{
+    width: 300px;
+    height: 3px;
+    background-color: white;
+ }
+
+ .paragraf{
+    
+    font-size: 25px;
+    color: white;
+    font-weight: none;
+    font-family: sans-serif;
+    
+ }
+
+h1{
+    font-size: 50px;
+}
+.btn{
+    background-color: #3C5467;
+    color: #E27218;
+    border: none;
+}
+.btn:hover{
+    background-color: #3C5467;
+}
+
+.hr3{
+    height: 3px;
+    width: 200px;
+    background-color: white;
+}
+.paragraf1{
+    text-align: justify;
+    font-size: 18px;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+ .Istorija{
+    color:black;
+    font-size: 50px;
+    font-weight: bold;
+ }
+ .btn1{
+    background-color: #FE9F5B;
+    color: black;
+    border: none;
+ }
+ .btn1:hover{
+    background-color: #FE9F5B;
+ }
+ 
+ .img2{
+    margin-top: 20px;
+ }
+ .text2{
+    margin-top: 50px;
+    color:black;
+    font-size: 50px;
+}
+.text3{
+    margin-top: 50px;
+    background-color: #FE9F5B;
+   text-align: center;
+}
+.text3 a{
+    text-decoration: none;
+    color:black;
+    font-size: 50px;
+}
+h1{
+    font-size: 50px;
+    color: #E27218;
+}
+h3{
+    font-size: 30px;
+    color: #E27218;
+}
